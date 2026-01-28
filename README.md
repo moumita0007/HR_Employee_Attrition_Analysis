@@ -14,7 +14,7 @@ This project analyzes employee attrition data to identify key factors influencin
 - SQL – Attrition analysis and ranking queries
 - Power BI – KPI cards, slicers, interactive dashboard
 
-📌 Key Insights
+# 📌 Key Insights
 - Overall attrition rate is around 16%
 - Sales department has the highest attrition rate
 - Employees working overtime leave more frequently
@@ -23,7 +23,7 @@ This project analyzes employee attrition data to identify key factors influencin
 - Longer-tenured employees show higher retention
 - Male attrition rate is slightly higher than female
 
-📁 Files Included
+# 📁 Files Included
 - cleaned_HR_employee_attrition.csv – Cleaned dataset
 - Employee_Attrition_Analysis.ipynb – Python analysis & visualizations
 - Employee_Attrition_Analysis()SQL.sql – SQL queries for attrition insights
